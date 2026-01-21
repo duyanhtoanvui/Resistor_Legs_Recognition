@@ -1,7 +1,7 @@
 # ***INTRODUCTION*** for using my project: Resistors Leads Recognition
 
 ![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue?logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-eb1616?logo=ultralytics&logoColor=white)
+![YOLOv8n-seg](https://img.shields.io/badge/Model-YOLOv8-eb1616?logo=ultralytics&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Annotation-Roboflow-6706ce?logo=roboflow&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
